@@ -1,5 +1,7 @@
 # Odyssey Lift-off V (Client): Road to production
 
+Live here: https://client-catstronauts-sean-lan.herokuapp.com/
+
 Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
